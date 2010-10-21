@@ -1,0 +1,9 @@
+#mendeley_container{border-top:1px solid #ddd;margin-top:5px}
+#mendeley_list{line-height:14px;margin-top:3px}
+#mendeley_list a:link{color:#006699}
+#mendeley_logo{margin-top:5px;text-align:left;border-top:1px solid #ddd;text-align:center}
+#mendeley_metadata{font-size:90%;color:#339900}
+#mendeley_item{padding-top:4px;padding-bottom:4px;}
+#mendeley_readers{float:left;width:40px;text-align:center;color:#333;font-size:1.2em}
+#m_read_label{font-size:0.7em;background:#333;-moz-border-radius:3px;-webkit-border-radius:3px;padding:3px;color:#ccc}
+#mendeley_right{margin-left:50px;}
