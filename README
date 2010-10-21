@@ -1,4 +1,4 @@
-=== Recommended Reading: Google Reader Shared ===
+=== Mendeley Related Research ===
 Contributors: Jason Hoyt (Mendeley.com)
 Tags: Mendeley, research, recommendations, reference manager, bibliography, widget
 Requires at least: 2.8
